@@ -52,7 +52,7 @@ class SistemaVentas:
                 precio.value = ""
                 cantidad.value = ""
 
-                mensaje.value ("✅ Producto agregado")
+                mensaje.value = ("✅ Producto agregado")
 
                 page.update()
 
